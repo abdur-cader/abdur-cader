@@ -34,7 +34,7 @@ I build full-stack web apps and mainly work with AI & Machine Learning systems.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### Recent Websites
+### Recent Projects (full-stack)
 [![Sharded](https://img.shields.io/badge/Sharded-000000?style=for-the-badge&logoColor=white)](https://sharded.dev)
 
 [![Citera](https://img.shields.io/badge/Citera-%E39000?style=for-the-badge&logoColor=E39000&color=FFFFFF)](https://www.citera.net) (with [RazzkaRusmantoro](https://github.com/RazzkaRusmantoro))
